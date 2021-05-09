@@ -1,5 +1,7 @@
 # location_app
 
+Flutter is a bad bad language
+
 A new Flutter application.
 
 ## Getting Started
